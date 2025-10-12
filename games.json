@@ -1,0 +1,139 @@
+[
+	{
+		"home": "TOR",
+		"away": "SEA",
+		"start": "2025-10-12T20:03:00-04:00",
+		"sport": "baseball",
+		"broadcast": "FOX",
+		"name": "ALCS Game 1"
+	},
+	{
+		"home": "TOR",
+		"away": "SEA",
+		"start": "2025-10-13T17:03:00-04:00",
+		"sport": "baseball",
+		"broadcast": "FOX",
+		"name": "ALCS Game 2"
+	},
+	{
+		"home": "SEA",
+		"away": "SF",
+		"start": "2025-09-07T13:05:00-07:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "PIT",
+		"away": "SEA",
+		"start": "2025-09-14T13:00:00-04:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "SEA",
+		"away": "NO",
+		"start": "2025-09-21T13:05:00-07:00",
+		"sport": "football",
+		"broadcast": "CBS"
+	},
+	{
+		"home": "ARI",
+		"away": "SEA",
+		"start": "2025-09-25T20:15:00-07:00",
+		"sport": "football",
+		"broadcast": "Prime Video"
+	},
+	{
+		"home": "SEA",
+		"away": "TB",
+		"start": "2025-10-05T13:05:00-07:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "JAX",
+		"away": "SEA",
+		"start": "2025-10-12T13:00:00-04:00",
+		"sport": "football",
+		"broadcast": "CBS"
+	},
+	{
+		"home": "SEA",
+		"away": "HOU",
+		"start": "2025-10-20T19:00:00-07:00",
+		"sport": "football",
+		"broadcast": "ESPN"
+	},
+	{
+		"home": "WAS",
+		"away": "SEA",
+		"start": "2025-11-02T20:20:00-05:00",
+		"sport": "football",
+		"broadcast": "NBC"
+	},
+	{
+		"home": "SEA",
+		"away": "ARI",
+		"start": "2025-11-09T13:05:00-08:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "LAR",
+		"away": "SEA",
+		"start": "2025-11-16T13:05:00-08:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "TEN",
+		"away": "SEA",
+		"start": "2025-11-23T13:00:00-06:00",
+		"sport": "football",
+		"broadcast": "CBS"
+	},
+	{
+		"home": "SEA",
+		"away": "MIN",
+		"start": "2025-11-30T13:05:00-08:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "ATL",
+		"away": "SEA",
+		"start": "2025-12-07T13:00:00-05:00",
+		"sport": "football",
+		"broadcast": "FOX"
+	},
+	{
+		"home": "SEA",
+		"away": "IND",
+		"start": "2025-12-14T13:25:00-08:00",
+		"sport": "football",
+		"broadcast": "CBS"
+	},
+	{
+		"home": "SEA",
+		"away": "LAR",
+		"start": "2025-12-18T17:15:00-08:00",
+		"sport": "football",
+		"broadcast": "Prime Video"
+	},
+	{
+		"home": "CAR",
+		"away": "SEA",
+		"start": "2025-12-27T13:00:00-05:00",
+		"sport": "football",
+		"broadcast": "TBD",
+		"note": "Date/time subject to flex scheduling"
+	},
+	{
+		"home": "SF",
+		"away": "SEA",
+		"start": "2026-01-04T13:00:00-08:00",
+		"sport": "football",
+		"broadcast": "TBD",
+		"note": "Date/time subject to flex scheduling"
+	}
+]
