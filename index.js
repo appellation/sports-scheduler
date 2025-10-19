@@ -1,6 +1,6 @@
-import games from "./games.json" with { type: "json" };
-import { scheduleJob } from "node-schedule";
 import { DateTime } from "luxon";
+import { scheduleJob } from "node-schedule";
+import games from "./games.json" with { type: "json" };
 
 const webhookUrl = process.env.WEBHOOK_URL;
 if (!webhookUrl) throw new Error("WEBHOOK_URL not available from env");
